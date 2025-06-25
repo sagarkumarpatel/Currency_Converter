@@ -18,7 +18,7 @@ A simple and modern **Currency Converter** web application that allows users to 
 ## 🔗 Live Demo
 
 **▶ Try it Live:**  
-👉 [https://currencyconverter-roan-ten.vercel.app/](https://currencyconverter-roan-ten.vercel.app/)
+👉 [https://currency-converter-liard-chi.vercel.app/](https://currency-converter-liard-chi.vercel.app/)
 
 ---
 
